@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement;
 
 public class SceneMove3 : MonoBehaviour
 {
-    public float delayBeforeSceneLoad = 2f; // ¾À ÀüÈ¯ Àü ´ë±â ½Ã°£
+    public float delayBeforeSceneLoad = 2f; // ì”¬ ì „í™˜ ì „ ëŒ€ê¸° ì‹œê°„
 
     public void LoadingNewScene()
     {
@@ -13,8 +13,8 @@ public class SceneMove3 : MonoBehaviour
 
     private IEnumerator LoadSceneWithDelay(string sceneName)
     {
-        yield return new WaitForSeconds(delayBeforeSceneLoad); // ÁöÁ¤µÈ ½Ã°£ µ¿¾È ´ë±â
-        SceneManager.LoadScene(sceneName); // ¾À ÀüÈ¯
+        yield return new WaitForSeconds(delayBeforeSceneLoad); // ì§€ì •ëœ ì‹œê°„ ë™ì•ˆ ëŒ€ê¸°
+        SceneManager.LoadScene(sceneName); // ì”¬ ì „í™˜
     }
 }
 
