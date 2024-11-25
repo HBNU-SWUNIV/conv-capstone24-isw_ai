@@ -1,7 +1,7 @@
 # 한밭대학교 인공지능소프트웨어학과 iSW_AI팀
 
 ## 팀 구성 
-|[정은주](ㅓ)|[장채은](ㅓ)|[최은실](https://github.com/eunsil04)|[김은경]()
+|[정은주](https://github.com/nju26)|[장채은](https://github.com/zzangchaeeun1)|[최은실](https://github.com/eunsil04)|[김은경](https://sites.google.com/view/hisw/professor?authuser=0)
 |:---:|:---:|:---:|:---:|
 |<img src="https://github.com/user-attachments/assets/5dbc0d15-b06e-46bf-9965-3b708520d302" width="100px" height="100px"/>|<img src="https://github.com/user-attachments/assets/42fba466-40e7-40de-83cc-b1aac7edca43" width="90px" height="90px"/>|<img src="https://github.com/user-attachments/assets/33b11a3f-5ca0-4736-ab33-01f028501f7c" width="100px" height="100px"/>|<img src="https://github.com/user-attachments/assets/74e10a12-2139-48cd-ab85-e8f1c6d13956" width="100px" height="100px"/>|
 |팀장 / 강화학습|UI,UX 인터페이스|유니티 맵 구현|지도교수|
