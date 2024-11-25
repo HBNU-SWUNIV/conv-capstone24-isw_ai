@@ -21,7 +21,8 @@
   
   - ### System Design
     - 본 연구에서는 Unity 환경에서 ML-Agents를 활용하여 차량 에셋을 이용한 트랙 주행 강화학습을 진행하였다. 강화학습 알고리즘으로는 PPO(Proximal Policy Optimization)를 사용하여 차량이 트랙을 효율적으로 주행할 수 있도록 학습시켰다. 차량은 주행 경로를 따라 이동하면서 주어진 트랙을 잘 주행할 수 있도록 최적의 행동을 학습하게 된다. 학습 과정에서, 차량의 현재 상태와 주행 정보는 ML-Agents를 통해 모델에 입력되며, PPO는 이를 기반으로 정책을 업데이트하고 주행 성능을 향상시킨다.
-      ![시스템구조](https://github.com/user-attachments/assets/f638df20-f265-4839-8d9f-27cf6809e35c)
+     ![system](https://github.com/user-attachments/assets/48ae1bb2-86d6-4430-962c-8078f2ea280e)
+
       ![시스템구조1](https://github.com/user-attachments/assets/a80198de-c064-4402-800e-e15ab023c430)
 
     
