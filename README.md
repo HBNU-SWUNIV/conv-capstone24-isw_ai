@@ -2,8 +2,8 @@
 
 **팀 구성**
 - 20221073 정은주
-- 20XX0002 이박김
-- 20XX0003 박김이
+- 20XX0002 장채은
+- 20XX0003 최은실
 
 ## <u>Teamate</u> Project Background
 - ### 필요성
@@ -27,5 +27,5 @@
   - ### OOO
   
 ## Project Outcome
-- ### 20XX 년 OO학술대회 
+
 
